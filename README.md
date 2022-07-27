@@ -1,1 +1,3 @@
 # Smart contracts with solidity
+
+In this exersize, we created a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Our  smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account. We created the Joint Savings Account Contract in Solidity, compiled and Deployed the Contract in the JavaScript VM, and interacted with our deployed Smart Contract. 
