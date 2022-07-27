@@ -1,1 +1,1 @@
-# Smart-Contracts-with-Solidity
+# Smart contracts with solidity
